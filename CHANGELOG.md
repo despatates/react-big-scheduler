@@ -1,5 +1,10 @@
 ## Coming npm version
 
+## v0.2.8
+
+* Build new package with the latest commits.
+* Fixed empty file `/lib/css/style.css` (copied from previous release)
+
 ### Some day
 * An add-more data bug
 

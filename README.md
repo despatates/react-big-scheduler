@@ -1,3 +1,17 @@
+# despatates/react-big-scheduler
+
+Original project [StephenChou1017/react-big-scheduler](https://github.com/StephenChou1017/react-big-scheduler) seems abandoned. Latest build on npm doesn't integrate latest commits.
+
+I forked the repo to embed them in a build (personally affected by issue [#200](https://github.com/StephenChou1017/react-big-scheduler/issues/200)).
+
+Install it with:
+
+```sh
+npm install https://github.com/despatates/react-big-scheduler
+```
+
+If the original repo is maintained again in the future, use it.
+
 # react-big-scheduler ![npm](https://img.shields.io/npm/v/react-big-scheduler.svg?style=plastic)
 
 A scheduler and resource planning component built for React and made for modern browsers (IE10+), IE needs babel-polyfill.  
